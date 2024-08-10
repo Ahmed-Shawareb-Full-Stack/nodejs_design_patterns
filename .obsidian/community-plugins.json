@@ -8,5 +8,10 @@
   "obsidian-mind-map",
   "obsidian-enhancing-mindmap",
   "excalibrain",
-  "obsidian-hover-editor"
+  "obsidian-hover-editor",
+  "execute-code",
+  "code-styler",
+  "obsidian-advanced-codeblock",
+  "code-block-from-selection",
+  "code-block-plugin"
 ]
