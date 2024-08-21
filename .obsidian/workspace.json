@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "4a402508d9fad327",
+    "id": "15c57ff10eaa0012",
     "type": "split",
     "children": [
       {
-        "id": "0aaa4303c6849b0c",
+        "id": "7121ffcb3f08f4bd",
         "type": "tabs",
         "children": [
           {
-            "id": "a0118f00ad48af67",
+            "id": "4a6a85efff2e7ed7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7244369066f95f6f",
+    "id": "da9cf42b60fbb9c7",
     "type": "split",
     "children": [
       {
-        "id": "83d4c664ead50fe3",
+        "id": "93ad7af5f2191788",
         "type": "tabs",
         "children": [
           {
-            "id": "198ff8364c33d650",
+            "id": "1d7033ba811044f1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -41,7 +41,7 @@
             }
           },
           {
-            "id": "f36d90ebbb9611cb",
+            "id": "38babf2d105ee36f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "bc8026e5b24dbe6d",
+            "id": "03361b2377ca8f3d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -71,15 +71,15 @@
     "collapsed": true
   },
   "right": {
-    "id": "d5dd9d07c7cd61d8",
+    "id": "24b26230c4757f2b",
     "type": "split",
     "children": [
       {
-        "id": "f0b998eb1844fb2e",
+        "id": "d9682f309e67f268",
         "type": "tabs",
         "children": [
           {
-            "id": "bc4368ad0408344a",
+            "id": "01b9d51007332d9c",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -96,7 +96,7 @@
             }
           },
           {
-            "id": "0bdf80c9427ceaff",
+            "id": "9294b284fdd18672",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -108,7 +108,7 @@
             }
           },
           {
-            "id": "1f2fc290cbcdc0ef",
+            "id": "949f37066e290579",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -119,7 +119,7 @@
             }
           },
           {
-            "id": "890235c61c5052cf",
+            "id": "e219bb4c3aedca1b",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -127,8 +127,25 @@
                 "file": "streams/notes.md"
               }
             }
+          },
+          {
+            "id": "e8e05fac986d453f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7d422dc446dd4f81",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -137,31 +154,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a0118f00ad48af67",
+  "active": "4a6a85efff2e7ed7",
   "lastOpenFiles": [
-    "streams/projects/time_efficiency/received/filename-3234",
-    "streams/projects/time_efficiency/received/filename-2076",
-    "streams/projects/time_efficiency/received/filename-1834",
-    "streams/projects/time_efficiency/received/filename-2961",
-    "streams/projects/time_efficiency/received/filename-5855",
-    "streams/projects/time_efficiency/received/filename",
-    "streams/projects/time_efficiency/cmu 14.rar",
-    "streams/projects/time_efficiency/received",
-    "streams/projects/time_efficiency/recieved",
-    "streams/projects/time_efficiency/New folder",
-    "streams/projects/time_efficiency/Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer.mp4",
+    "streams/notes.png",
     "streams/notes.md",
-    "Welcome.md"
+    "package.json",
+    "package-lock.json",
+    "Welcome.md",
+    "Excalidraw/Drawing 2024-08-08 15.21.06.excalidraw.md",
+    "Excalidraw",
+    "2024-08-05.md",
+    "2024-08-04.md",
+    "streams/Drawing 2024-08-04 13.58.43.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-04 13.58.34.excalidraw.md",
+    "streams/Untitled.md",
+    "Excalidraw/Drawing 2024-08-04 11.44.44.excalidraw.md",
+    "streams"
   ]
 }
